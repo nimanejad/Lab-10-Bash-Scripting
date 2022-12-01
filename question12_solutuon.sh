@@ -1,5 +1,5 @@
 #!/bin/bash
-input=5
+input=1
 while [ $input -ne 0 ]
 do
     echo "Project Info"
