@@ -17,6 +17,6 @@ do
     elif [ $input -eq 3 ]; then
         echo kingston leung, jesus arroyo, nima nejad
         echo https://github.com/nimanejad/hobbyfinder
-	      echo CPSC 254
+	echo CPSC 254
     fi
 done
